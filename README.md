@@ -1,2 +1,2 @@
 # TributePage_fcc
-Assignment: Tribute Page for freeCodeCamp's Responsive Web Design course.
+Assignment 1: Tribute Page for freeCodeCamp's Responsive Web Design course.
